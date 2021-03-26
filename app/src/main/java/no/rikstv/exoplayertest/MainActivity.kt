@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
             }
 
         val customerPlayerData = CustomerPlayerData()
-        customerPlayerData.environmentKey = "YOU KEY HERE"
+        customerPlayerData.environmentKey = "YOUR KEY HERE"
         val customerVideoData = CustomerVideoData()
         customerVideoData.videoTitle = "test"
 
